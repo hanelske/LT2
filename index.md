@@ -1,4 +1,6 @@
-!(logo-iac.png)
+Here is an image
+
+![text about an image](logo-iac.png)
 
 # Ground-breaking rapid robotic follow-up with a 4-metre successor to the Liverpool Telescope
 
