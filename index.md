@@ -1,4 +1,4 @@
-(logo-iac.png)
+!(logo-iac.png)
 
 # Ground-breaking rapid robotic follow-up with a 4-metre successor to the Liverpool Telescope
 
