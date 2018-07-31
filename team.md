@@ -18,4 +18,6 @@ Mr. Adrian McGrath; NRT Project Manager
 
 Dr. Helen Jermak; NRT Project Scientist
 
+![Helen Jermak](img_0423.jpg)
+
 I obtained my PhD from LJMU in 2016 and worked as an E-ELT PDRA at Lancaster and an Instrument Scientist for the MOPTOP polarimeter project at LJMU before joining the NRT project in Spring 2018. My research interests are optical polarimetry, particularly of blazars, and instrumentation. I am one of the co-chairs of the ARI's Equality and Diversity team and I am also the Diversity and Wellbeing representative for the departmental Management Board. In my spare time I like to practice yoga, play rugby and go to music gigs.
