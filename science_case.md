@@ -7,3 +7,6 @@ The key science drivers are supernovae, gamma-ray bursts, electromagnetic counte
 The primary first-light instrument will be a spectrograph, driven by the large amount of transient classification which requires spectroscopy, and the other instrumentation to follow will consist of photometric and polarimetric capabilities. 
 
 The success of the Liverpool Telescope is partly due to the flexibility of instrumentation to suit the user. While the NRT will have fewer (i.e. no more than 5) instruments than the LT, we are open to user feedback and ideas for the new instrumentation suite.
+
+Send comments and ideas to NRT Project Scientist <h.e.jermak@ljmu.ac.uk>.
+
