@@ -7,3 +7,5 @@ Welcome to the new webpage for the Liverpool New Robotic Telescope; a collaborat
 The [news](news.md) page details the latest project developments including workshops, meetings, partners and outreach.
 
 As part of the Astrophysics Research Institute at LJMU, we are dedicated to pushing our [equity and diversity](ed.md) initiatives and creating a welcoming working environment and partnership. 
+
+![text about an image](NRTW_group_2_400.png) 
