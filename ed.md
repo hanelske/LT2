@@ -1,4 +1,4 @@
-
+![Juno](Juno Practitioner.jpg) ![LJMU](ljmu_logo.jpg)
 
 # Equality and Diversity at the Astrophysics Research Institute
 
