@@ -7,10 +7,8 @@
 * 19 March 2018	Semester 2018B Calls for Proposals
 * 05 March 2018	Storm aftermath update
 * 02 March 2018	Ice & stormy conditions update
-* 26 February 2018	Icy conditions continue — update
 * 21 February 2018	Icy conditions continue
 * 13 February 2018	OPTICON Call for Proposals for Semester 2018B
-* 13 February 2018	Ice and snow finally clearing at ORM
 * 05 February 2018	CCI International Time Programme 2018-2019 Call for Proposals
 * 25 January 2018	New Robotic Telescope workshop held in Liverpool
 * 10 November 2017	Interstellar visitor tracked with LT
@@ -20,8 +18,6 @@
 * 15 August 2017	OPTICON Call for Proposals for Semester 2018A
 * 27 July 2017	LT at June 2017 Cosford Air Show
 * 26 July 2017	Spectacular pictures added to LT Picture Gallery
-* 11 July 2017	New filter for RISE
-* 05 July 2017	Quicker Daily Data Flow and Weekend Data Releases
 * 01 June 2017	LT & NSO at 2017 RAF Cosford Airshow
 * 24 May 2017	Liverpool Telescope group begins collaboration with National Astronomical Research Institute of Thailand
 * 26 April 2017	Photography as art in LJMU online feature
@@ -38,22 +34,22 @@
 * 5 August 2016	LT adds spectroscopy to its automatic rapid-response capabilities
 * 20 June 2016	Liverpool Telescope Involved in Gravitational Wave Followup Campaign
 * 19 May 2016	Upcoming LT Sessions at this Summer's Astronomy Conferences
-* 04/04/16: Memorandum Of Understanding signed between LJMU and Instituto de Astrofisica de Canarias (IAC). Articles featured in LJMU news, IAC Press, and BBC Online.
-* 02/03/16: LT/LT2 seminar at National Astronomical Research Institute of Thailand
-* 09/11/15: LT/LT2 talk at the sixth Gaia Science Alerts workshop, Liverpool
-* 30/09/15: Talk at the Fourth Workshop on Robotic Autonomous Observatories, Torremolinos
-* 26/06/15: Talk at EWASS, Tenerife
-* 14/11/14: Talk at RAS Specialist Discussion Meeting on Time Domain Astronomy with LT and LT2
-* 24/06/14: Talk at SPIE Astronomical Telescopes and Instrumentation, Montreal
-* 06/01/14: Seminar at the Instituto de Astrofísica de Canarias
-* 03/02/14: Article published in It's Liverpool magazine
-* 20/09/13: Talk at the Explosive Transients meeting in Santorini, Greece
-* 12/09/13: Talk at the LSST@Europe meeting at the University of Cambridge
-* 14/08/13: Talk at the GWEM meeting at the University of Warwick
-* 08/07/13: LT2 poster at EWASS 2013
-* 02/07/13: LT2 talk in the 'Future Instruments and Facilities' session at the 2013 National Astronomy Meeting in St. Andrews. See also this press release on the RAS website and an interview in this podcast
-* 27/06/13: Launch of LT2 website
-* 24/06/13: Poster presented at First UK LOFT Science Meeting
-* 16/05/13: Seminar at Mullard Space Science Laboratory
-* 12/03/13: Article published in the newsletter of the Welsh Opto-Electronics Forum
-* 05/03/13: Article published in LJMU Think magazine
+* 04 April 2016: Memorandum Of Understanding signed between LJMU and Instituto de Astrofisica de Canarias (IAC). Articles featured in LJMU news, IAC Press, and BBC Online.
+* 02 March 2016: LT/LT2 seminar at National Astronomical Research Institute of Thailand
+* 09 November 2015: LT/LT2 talk at the sixth Gaia Science Alerts workshop, Liverpool
+* 30 September 2015: Talk at the Fourth Workshop on Robotic Autonomous Observatories, Torremolinos
+* 26 June 2015: Talk at EWASS, Tenerife
+* 14 November 2014: Talk at RAS Specialist Discussion Meeting on Time Domain Astronomy with LT and LT2
+* 24 June 2014: Talk at SPIE Astronomical Telescopes and Instrumentation, Montreal
+* 06 January 2014: Seminar at the Instituto de Astrofísica de Canarias
+* 03 February 2014: Article published in It's Liverpool magazine
+* 20 September 2013: Talk at the Explosive Transients meeting in Santorini, Greece
+* 12 September 2013: Talk at the LSST@Europe meeting at the University of Cambridge
+* 14 August 2013: Talk at the GWEM meeting at the University of Warwick
+* 08 July 2013: LT2 poster at EWASS 2013
+* 02 July 2013: LT2 talk in the 'Future Instruments and Facilities' session at the 2013 National Astronomy Meeting in St. Andrews. See also this press release on the RAS website and an interview in this podcast
+* 27 June 2013: Launch of LT2 website
+* 24 June 2013: Poster presented at First UK LOFT Science Meeting
+* 16 May 2013: Seminar at Mullard Space Science Laboratory
+* 12 March 2013: Article published in the newsletter of the Welsh Opto-Electronics Forum
+* 05 March 2013: Article published in LJMU Think magazine
