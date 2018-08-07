@@ -9,3 +9,15 @@ The [news](news.md) page details the latest project developments including works
 As part of the Astrophysics Research Institute at LJMU, we are dedicated to pushing our [equity and diversity](ed.md) initiatives and creating a welcoming working environment and partnership. 
 
 ![text about an image](NRTW_group_2_400.png) 
+
+docs_list_title: ACME Documentation
+docs:
+
+- title: Introduction
+  url: introduction.html
+
+- title: Configuration
+  url: configuration.html
+
+- title: Deployment
+  url: deployment.html
