@@ -1,3 +1,10 @@
 title: The Liverpool New Robotic Telescope
 theme: jekyll-theme-slate
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
 
