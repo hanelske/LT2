@@ -9,4 +9,4 @@ The [news](news.md) page details the latest project developments including works
 As part of the Astrophysics Research Institute at LJMU, we are dedicated to pushing our [equity and diversity](ed.md) initiatives and creating a welcoming working environment and partnership. 
 
 ![NRT workshop photo](NRTW_group_2_400.png) 
-
+#### NRT Workshop group photo. Left to right: Marco Lam, Iain Steele, Robin Leatherbarrow, Abigail Lewis, Paulo Lisboa, Ian Baker, Adrian McGrath, Phil James, Suparerk Aukkaravittayapun, Chris Copperwheat, Saran Poshyachinda, Juan Cozar, Christophe Buisset, Helen Jermak, Thirasak Panyaphirawat, Apirat Prasit, Carlos M Gutierrez, Ahmed Al Shamma’a. Credit: Marco Lam.
