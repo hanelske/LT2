@@ -17,6 +17,8 @@ Text about IAS.
 I am the Liverpool Telescope Astronomer in Charge and a Reader in Time Domain Astrophysics in the Astrophysics Research Institute at Liverpool John Moores University. I obtained my PhD in 2007 from University College London, and then worked as a postdoctoral researcher at the University of Warwick before joining LJMU in 2012. My research interests span a wide array of time variable phenomena, including (but not limited to) white dwarf binaries, exoplanets and gravitational wave counterparts.
 
 **Mr. Adrian McGrath; NRT Project Manager**
+I am the New Robotic Telescope Project Manager. I am a Prince2 and Scrum Master qualified Project Manager who has used these methodologies in isolation and combined to deliver a variety of different sized projects.
+Multi-disciplined projects like the NRT are a great opportunity to develop existing skills and learn new ones. I’m excited to discover what new skills I’m going acquire during this project.
 
 **Dr. Helen Jermak; NRT Project Scientist**
 
