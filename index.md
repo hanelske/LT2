@@ -6,7 +6,7 @@ Welcome to the new webpage for the Liverpool New Robotic Telescope (NRT); a coll
 
 The [news](news.md) page details the latest project developments including workshops, meetings, partners and outreach.
 
-As part of the Astrophysics Research Institute at LJMU, we are dedicated to pushing towards a better working environment through our departmental [equity and diversity](ed.md) initiatives.
+%As part of the Astrophysics Research Institute at LJMU, we are dedicated to pushing towards a better working environment through our departmental [equity and diversity](ed.md) initiatives.
 
 ![NRT workshop photo](NRTW_group_2_400.png) 
 
