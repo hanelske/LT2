@@ -37,11 +37,16 @@ I finished my PhD entitled the 'Structure and Evolution of Classical Nova Shells
 **IAC**
 
 Prof Rafael Rebolo [Project Partner]
+
 Prof Johan Knapen [Project Partner]
+
 Dr Carlos Gutierrez [Project Partner]
 Miguel Torres [Systems Engineer, IAC Work Packages Project Manager]
+
 Asier Oria [Mechanical Engineer]
+
 Juan Jose Sanabria [Software Engineer]
 
 **NARIT**
+
 Dr Thirasak Panyaphirawat [Project Partner]
