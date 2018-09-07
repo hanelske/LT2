@@ -1,5 +1,5 @@
 title: The Liverpool New Robotic Telescope
-theme: jekyll-theme-slate
+remote-theme: "mmistakes/minimal-mistakes"
 docs_list_title: ACME Documentation
 docs:
 
