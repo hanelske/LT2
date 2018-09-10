@@ -1,22 +1,4 @@
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- @hanelske Sign out
-1
-0 7,040 iainsteele/minimal-mistakes
-forked from mmistakes/minimal-mistakes
- Code  Pull requests 0  Projects 0  Insights
-minimal-mistakes/_config.yml
-0d84722  3 days ago
-@iainsteele iainsteele Update _config.yml
-@mmistakes @iainsteele @ohadschn @Pradhyo @yihangho @LoveMeWithoutAll @YuyingWu @westes @vlajos @tony-ho @rriemann @nickgarlis @maxheld83 @matiasfrndz @kennonkwok @jeremyvoltz @thoemmi @hbarudin @rschaerer @gabor-meszaros @cdodd @4brunu
-     
-278 lines (249 sloc)  7.98 KB
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
